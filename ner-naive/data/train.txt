@@ -1,0 +1,19 @@
+陈	B_SINGER
+建	I_SINGER
+骐	I_SINGER
+
+韩	B_SINGER
+晶	I_SINGER
+老	B_SONG
+婆	I_SONG
+
+播	O
+放	O
+刘	B_SINGER
+德	I_SINGER
+华	I_SINGER
+快	B_TAG
+乐	I_TAG
+的	O
+马	O
+溜	O
